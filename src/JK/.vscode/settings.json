@@ -1,0 +1,8 @@
+{
+  "java.debug.settings.onBuildFailureProceed": true,
+  "workbench.colorCustomizations": {
+    "activityBar.background": "#4E1F11",
+    "titleBar.activeBackground": "#6E2B17",
+    "titleBar.activeForeground": "#FDF9F7"
+  }
+}
