@@ -248,10 +248,3 @@ Handles a connected client to the server.
 | `public String getColor()`                     | Returns the color associated with the client                                                   |
 | `public int getScore()`                        | Returns the score of the client                                                                |
 
-## How to Run
-
-1. Ensure you have Java installed on your system.
-2. Compile the Java files.
-   ```bash
-   javac JK/*.java
-   ```
